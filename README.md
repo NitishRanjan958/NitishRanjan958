@@ -7,7 +7,7 @@
   
    <b>About Me</b>
    <hr/>
-   <img align="right"alt="coding" width="250"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
+   <img align="right"alt="coding" width="400"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 -   **I am currently pursuing a Master of Computer Applications (MCA) with a strong interest in software development and problem-solving. I have hands-on experience with programming languages like Java, Python, and C++, and I'm eager to apply my skills in real-world projects. I’m a fast learner, team player, and passionate about building efficient and innovative tech solutions.**
 
 
