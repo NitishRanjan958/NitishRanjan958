@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Mca**
 - <hr>
 
--  about
+-  <b>about</b>
 -   **I am currently pursuing a Master of Computer Applications (MCA) with a strong interest in software development and problem-solving. I have hands-on experience with programming languages like Java, Python, and C++, and I'm eager to apply my skills in real-world projects. I’m a fast learner, team player, and passionate about building efficient and innovative tech solutions.**
 
 
